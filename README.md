@@ -1,7 +1,6 @@
 # celebrare
 
-A new Flutter project.
-
+A new Flutter project about App Working
 ## Getting Started
 
 This project is a starting point for a Flutter application.
